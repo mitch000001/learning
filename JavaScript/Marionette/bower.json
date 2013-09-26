@@ -1,0 +1,29 @@
+{
+  "name": "Marionette",
+  "version": "0.1.0",
+  "authors": [
+    "Michael Wagner <mitch.wagna@gmail.com>"
+  ],
+  "description": "A marionette toolbox",
+  "main": "public/assets/js/main.js",
+  "license": "MIT",
+  "private": true,
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "vendor",
+    "test",
+    "tests"
+  ],
+  "dependencies": {
+    "requirejs" : "2.1.8",
+    "backbone": "1.0.0",
+    "backbone.marionette": "1.0.2",
+    "backbone.wreqr": "latest",
+    "backbone.babysitter": "latest",
+    "underscore": "1.4.3",
+    "jquery": "1.9.1",
+    "json2": "latest"
+  }
+}
